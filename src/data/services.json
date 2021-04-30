@@ -1,0 +1,17 @@
+[
+    {
+        "img": "../assets/images/travel.jpg",
+        "alt": "Travel",
+        "name": "Travel"
+    },
+    {   "img": "../assets/images/lifestyle.jpg",
+        "alt": "Lifestyle",
+        "name": "Lifestyle"
+    },
+    {
+        "img": "../assets/images/realestate.jpg",
+        "alt": "Real Estate",
+        "name": "Real Estate"
+
+    }
+]

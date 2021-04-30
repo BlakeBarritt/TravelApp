@@ -1,0 +1,13 @@
+.formContainer {
+    
+    text-align:center;
+    align-items: center;
+    margin: 20px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.formInput {
+    text-transform: uppercase;
+    border: black 1px;
+}
